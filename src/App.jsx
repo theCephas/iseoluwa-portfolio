@@ -121,7 +121,7 @@ export default function App() {
           {
             title: "MovieBox",
             description:
-              "This is a project built with react, vite, and typescript. It is a qr code generator, displaying several templates to use. Also, users can be able to download these generated qr codes for future use.",
+              "This is a project built with the tmndb api and react that displays movies of different genres. You can ike the movie you want, search for them, and also get an overview of them.",
             imageUrl: MovieBox,
             link: "https://tc-moviebox.vercel.app/",
           },
