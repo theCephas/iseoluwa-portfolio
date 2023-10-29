@@ -74,13 +74,13 @@ export default function App() {
             company: "DryCode",
             position: "Frontend Developer Intern",
             from: "July 2023",
-            to: "August",
+            to: "August 2023",
           },
           {
             company: "HNGx Internship",
             position: "Frontend Developer Intern",
             from: "September 2023",
-            to: "October",
+            to: "October 2023",
           },
         ],
         certifications: [
