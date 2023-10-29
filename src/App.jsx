@@ -48,14 +48,14 @@ export default function App() {
           },
         },
         social: {
-          linkedin: "https://www.linkedin.com/in/iseoluwa-osho",
+          linkedin: "https://www.linkedin.com/in/osho-iseoluwa",
           twitter: "https://twitter.com/OshoIseoluwa",
           phone: "08110470908",
           email: "oshoiseoluwa@gmail.com",
         },
         resume: {
           fileUrl:
-            "https://docs.google.com/document/d/1r8XLS6aeUoSys_qsxN2TQvmHvBgT-Ykz/edit?usp=sharing&ouid=101181635195839003358&rtpof=true&sd=true",
+            "https://docs.google.com/document/d/12luzb8w2Mv4b4GJs05LNqh2iGeNFtM7eFaStsE_q6UQ/edit?usp=sharing",
         },
         skills: [
           "JavaScript",
@@ -67,9 +67,7 @@ export default function App() {
           "Bootstrap",
           "GSAP",
           "Framer-Motion",
-          "Nodejs",
           "SASS",
-          "Express",
         ],
         experiences: [
           {
@@ -77,6 +75,12 @@ export default function App() {
             position: "Frontend Developer Intern",
             from: "July 2023",
             to: "August",
+          },
+          {
+            company: "HNGx Internship",
+            position: "Frontend Developer Intern",
+            from: "September 2023",
+            to: "October",
           },
         ],
         certifications: [
